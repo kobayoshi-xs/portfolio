@@ -1,0 +1,2 @@
+module DialysisFood::TopHelper
+end
