@@ -1,4 +1,4 @@
 class DialysisFood::TopsController < ApplicationController
-    def index
+    def top
     end
 end
