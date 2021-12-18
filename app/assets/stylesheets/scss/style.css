@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: aqua;
+}
+
+.header .header-main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.header .header-main .list-inline {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  list-style: none;
+  padding-right: 30px;
+}
+
+.header .header-main .list-inline li {
+  padding-right: 30px;
+}
+/*# sourceMappingURL=style.css.map */
