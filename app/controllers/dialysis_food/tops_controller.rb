@@ -4,4 +4,7 @@ class DialysisFood::TopsController < ApplicationController
 
     def explan
     end
+
+    def meal_manage
+    end
 end
